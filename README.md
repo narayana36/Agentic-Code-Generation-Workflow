@@ -46,7 +46,7 @@ Output (Angular Component in /output)
 ## How to Run
 ### 1. clone or Download
 ``` bash
-https://github.com/narayana36/GCA-Project
+https://github.com/narayana36/Agentic-Code-Generation-Workflow
 ```
 
 ### 2. Install Dependencies
