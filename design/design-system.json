@@ -1,0 +1,7 @@
+{
+  "primary-color": "#6366f1",
+  "secondary-color": "#f59e0b",
+  "border-radius": "8px",
+  "font-family": "Inter, sans-serif",
+  "shadow": "0 4px 30px rgba(0,0,0,0.1)"
+}
